@@ -6,7 +6,7 @@ I really enjoyed working with the Bootstrap grid/ flex properties, it made it so
 The page features 5 sections:
 
 - A Hero Section
- <img src="(https://user-images.githubusercontent.com/96267228/150208108-c46f99e5-d35e-409c-ad34-25d84b3fb3f0.png)">
+(https://user-images.githubusercontent.com/96267228/150208108-c46f99e5-d35e-409c-ad34-25d84b3fb3f0.png)"
  
 - A Portfolio Section 
 (https://user-images.githubusercontent.com/96267228/150208123-ef02ed01-e8b5-45c3-bc73-b683ca6a4316.png)
